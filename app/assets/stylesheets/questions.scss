@@ -2,3 +2,21 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 @import "bootstrap";
+
+#answer_format {
+  border-left: 5px solid rgb(200, 200, 200);
+  background-color: #FEFFDF;
+}
+
+#question_format {
+  border-left: 5px solid rgb(200, 200, 200);
+}
+
+h4 {
+  margin-left: 10px;
+}
+
+
+p {
+  margin-left: 10px;
+}
